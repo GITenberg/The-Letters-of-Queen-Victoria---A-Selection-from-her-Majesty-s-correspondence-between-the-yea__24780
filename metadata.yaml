@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9036
     wikipedia: http://en.wikipedia.org/wiki/Reginald_Brett%2C_2nd_Viscount_Esher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24780#The-Letters-of-Queen-Victoria---A-Selection-from-her-Majesty-s-correspondence-between-the-yea_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2008-03-08'
 gutenberg_type: Text
